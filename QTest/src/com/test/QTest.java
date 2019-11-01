@@ -11,6 +11,7 @@ public class QTest {
 				System.out.printf("%d * %d = %d\n", i,j,i*j);
 			}
 			System.out.println();
+			System.out.println();
 		}
 	}
 	/*
