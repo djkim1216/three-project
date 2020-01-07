@@ -1,7 +1,8 @@
 package com.test;
 
 public class QTest {
-	public static void main(String[] args) {
+	
+	public static void prn() {
 		System.out.println("안녕 여러분");
 		
 		System.out.println("넴 넨");
@@ -13,6 +14,10 @@ public class QTest {
 			System.out.println();
 			System.out.println();
 		}
+	}
+	
+	public static void main(String[] args) {
+		prn();
 	}
 	/*
 	SQL
